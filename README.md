@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anant
 
-<!--
-**Anantk2908/Anantk2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Computer Science student at NYU Courant (graduating May 2028). Before that, I spent three years at IBM building LLM and agent systems for clients.
 
-Here are some ideas to get you started:
+## What I've worked on
+- Fine-tuned Llama 3.1 70B with QLoRA to migrate COBOL to Java
+- Built RAG systems with hybrid search (Milvus + Elasticsearch BM25) and a reranker, deployed on Kubernetes
+- Built multi-agent systems with LangGraph and IBM Granite
+- Delivered 24 client pilots, and 16 became paid engagements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Taking Fundamental Algorithms, Scientific Computing, and Intro to Deep Learning and LLM-based Generative AI Systems
+- Looking for AI/ML engineering internships for summer 2027
+
+## Tools
+Python, Java, SQL, PyTorch, Hugging Face Transformers, LangChain, LangGraph, FastAPI, React.js, Docker, Kubernetes, AWS, GCP
+
+## Featured project
+**[SummarizeTube](https://github.com/Anantk2908/SummarizeTube)** is a YouTube summarizer that runs Mistral-Small and Whisper fully on local hardware, with RAG for Q&A across a whole playlist.
+
+## Reach me
+[LinkedIn](https://www.linkedin.com/in/anant-kumar-3a4a90194/) | ak10760@nyu.edu
